@@ -582,8 +582,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   coinPrefab: {fileID: 4529754492191799452, guid: 0b86862f383b0c14995b73822732cbf5, type: 3}
   spawnInterval: 2
-  spawnAreaMin: {x: 0, y: 0}
-  spawnAreaMax: {x: 0, y: 0}
+  spawnAreaMin: {x: -7, y: 7}
+  spawnAreaMax: {x: -4, y: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
